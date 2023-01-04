@@ -27,7 +27,7 @@ Also a developing data engineer, working with data using various tools and langu
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%" style="margin-top: 10px">
+<table><tr><td valign="top" width="50%" style="padding-top: 10px">
 
 - 🔭 I’m currently working on [AI Assistant](https://github.com/minato3000)  
   
