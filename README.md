@@ -80,7 +80,7 @@ Also a developing data engineer, working with data using various tools and langu
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minato3000&hide_border=true&layout=compact" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minato3000&hide_border=true&layout=compact" align="right" style="width: 50%" />
 
 
 
@@ -99,4 +99,3 @@ Also a developing data engineer, working with data using various tools and langu
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
