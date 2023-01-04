@@ -17,7 +17,6 @@
 
 
 
-### Glad to see you here!  
 I'm a front-end developer, have been into it for few months. Upto becoming a full-stack developer, been developing websites of my interest and also have made some free lancing works on client-facing websites.
 
 Also a developing data engineer, working with data using various tools and languages like Knime, Python. To produce more efficient and useful products is my criteria and am progressing very much in it.  
@@ -38,15 +37,7 @@ Also a developing data engineer, working with data using various tools and langu
 - ⚡ Fun fact: I keep night shift switched on at all times   
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
+</td></tr></table>
 <br/>  
 
 
