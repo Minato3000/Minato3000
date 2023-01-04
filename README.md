@@ -69,7 +69,7 @@ Also a developing data engineer, working with data using various tools and langu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minato3000)](https://github.com/anuraghazra/github-readme-stats)
 
-</td><td>
+</td></tr>
 <table>
 
 <table>
