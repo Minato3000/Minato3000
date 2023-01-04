@@ -76,13 +76,13 @@ Also a developing data engineer, working with data using various tools and langu
 ## Github Stats  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=minato3000&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 40%; padding:0%" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=minato3000)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minato3000)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=minato3000&show_icons=true&count_private=true)  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minato3000&hide_border=true&layout=compact" align="right" style="width: 40%; padding:0%" />
+![GitHub streak stats](https://streak-stats.demolab.com/?user=minato3000)  
 
-
- 
-
+![Profile views](https://gpvc.arturio.dev/minato3000)  
 
