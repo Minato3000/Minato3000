@@ -86,15 +86,5 @@ Also a developing data engineer, working with data using various tools and langu
 
 <br/>  
 
-  
-
-<br/>  
-
-/** ![Profile views counter](https://komarev.com/ghpvc/?username=minato3000&&style=flat-square) */
-
-<br/>  
-
-
-<br />
 
 ----
