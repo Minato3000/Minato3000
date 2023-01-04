@@ -68,11 +68,21 @@ Also a developing data engineer, working with data using various tools and langu
 
 
 
+<table>
+<tr>
+<td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minato3000)](https://github.com/anuraghazra/github-readme-stats)
 
+</td>
+</tr>
+<tr><td>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minato3000&show_icons=true&count_private=true)  
+</td><td>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=minato3000)  
 
+</td></tr>
+</table>
 
