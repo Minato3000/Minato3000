@@ -83,8 +83,6 @@ Also a developing data engineer, working with data using various tools and langu
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minato3000&hide_border=true&layout=compact" align="right" style="width: 40%; padding:0%" />
 
 
+ 
 
-<br/>  
 
-
-----
