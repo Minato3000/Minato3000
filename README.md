@@ -3,6 +3,7 @@
 I'm a front-end developer, have been into it for few months. Upto becoming a full-stack developer, been developing websites of my interest and also have made some free lancing works on client-facing websites.
 
 Also a developing data engineer, working with data using various tools and languages like Knime, Python. To produce more efficient and useful products is my criteria and am progressing very much in it.  
+
 <a href="https://github.com/Minato3000" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
