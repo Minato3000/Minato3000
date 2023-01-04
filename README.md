@@ -1,6 +1,8 @@
 ## Hey 👋, I'm Raghuram!  
   
+I'm a front-end developer, have been into it for few months. Upto becoming a full-stack developer, been developing websites of my interest and also have made some free lancing works on client-facing websites.
 
+Also a developing data engineer, working with data using various tools and languages like Knime, Python. To produce more efficient and useful products is my criteria and am progressing very much in it.  
 <a href="https://github.com/Minato3000" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -13,14 +15,6 @@
 <a href="https://dev.to/minato3000" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
-  
-
-
-
-I'm a front-end developer, have been into it for few months. Upto becoming a full-stack developer, been developing websites of my interest and also have made some free lancing works on client-facing websites.
-
-Also a developing data engineer, working with data using various tools and languages like Knime, Python. To produce more efficient and useful products is my criteria and am progressing very much in it.  
-  
 
 <br/>  
 
@@ -68,14 +62,17 @@ Also a developing data engineer, working with data using various tools and langu
 
 
 
+
 <table>
-<tr>
-<td>
+<tr><td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minato3000)](https://github.com/anuraghazra/github-readme-stats)
 
-</td>
-</tr>
+</td><td>
+<table>
+
+<table>
+
 <tr><td>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minato3000&show_icons=true&count_private=true)  
