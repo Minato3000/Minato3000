@@ -80,7 +80,7 @@ Also a developing data engineer, working with data using various tools and langu
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minato3000&hide_border=true&layout=compact" align="left" style="width: 60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minato3000&hide_border=true&layout=compact" align="left" style="width: 50%" />
 
 
 
