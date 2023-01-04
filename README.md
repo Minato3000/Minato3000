@@ -36,7 +36,8 @@ Also a developing data engineer, working with data using various tools and langu
 <br/>  
 
 
-## Languages and Tools  
+## Languages and Tools
+<table><tr>  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -55,6 +56,7 @@ Also a developing data engineer, working with data using various tools and langu
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>  
+</tr></table>
 
 <br/>  
 
@@ -65,7 +67,7 @@ Also a developing data engineer, working with data using various tools and langu
 
 
 <table>
-<tr div="center"><td>
+<tr align="center"><td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minato3000)](https://github.com/anuraghazra/github-readme-stats)
 
