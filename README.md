@@ -19,18 +19,6 @@ Also a developing data engineer, working with data using various tools and langu
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%" style="padding-top: 10px">
-  
-
-- ⚡ Fun fact: I keep night shift switched on at all times   
-
-
-</td></tr></table>
-<br/>  
-
-
 ## Languages and Tools
 <table><tr>  <td>
 <div align="center" width="70%">  
